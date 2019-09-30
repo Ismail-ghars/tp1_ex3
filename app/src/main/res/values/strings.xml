@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">tp1_ex3</string>
+    <string name="hello">hello world</string>
+    <string name="flag">flag</string>
+</resources>
